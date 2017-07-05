@@ -1,0 +1,49 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.box {
+	height: 100px;
+	width: 430px;
+	border: 1px solid #737373;
+	outline: 1px dashed;
+	text-align: center;
+	margin: 3px;
+	line-height: 2em;
+}
+
+.formula {
+	font-size: 1.2em;
+	text-align: left;
+	padding-left: 10px;
+}
+
+.box sub, sup {
+	font-style: italic;
+}
+
+.box2 {
+	height: 100px;
+	width: 430px;
+	border: 3px dashed;
+	margin: 3px;
+	line-height: 2em;
+	padding-left: 10px;
+}
+
+.formula2 {
+	font-size: 1.5em;
+	font-style: italic;
+	text-align: left;
+
+}
+
+.box2 sup {
+	color: red;
+	font-style: normal;
+}
+
+.box2 sub {
+	color: blue;
+	font-style: normal;
+}
