@@ -5,8 +5,7 @@
 .box {
 	height: 100px;
 	width: 430px;
-	border: 1px solid #737373;
-	outline: 1px dashed;
+	border: 3px dashed;
 	text-align: center;
 	margin: 3px;
 	line-height: 2em;
