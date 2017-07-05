@@ -1,0 +1,20 @@
+/*body {
+	background: blue;
+}
+*/
+.one {
+	height: 40px;
+	width: 50px;
+	background-color: #FF0000;
+}
+
+.two {
+	height: 40px;
+	width: 100px;
+	background-color: #FFA300;
+}
+.three {
+	height: 40px;
+	width: 150px;
+	background-color: #4600FF;
+}
