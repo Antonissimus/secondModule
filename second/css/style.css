@@ -5,16 +5,19 @@
 .one {
 	height: 40px;
 	width: 50px;
+	margin: 10px;
 	background-color: #FF0000;
 }
 
 .two {
 	height: 40px;
 	width: 100px;
+	margin: 10px;
 	background-color: #FFA300;
 }
 .three {
 	height: 40px;
 	width: 150px;
+	margin: 10px;
 	background-color: #4600FF;
 }
